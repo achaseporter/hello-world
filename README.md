@@ -1,3 +1,3 @@
 # hello-world
 Just another repository. 
-#My name is Chase. #klgfhj
+My name is Chase. 
